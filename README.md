@@ -71,3 +71,8 @@ Credit card fraud is a significant issue in the financial industry, especially d
 - **F1-score**: 0.88  
 - **Explainable AI (SHAP)** used for model transparency  
 - Designed for real-world interpretability and business use
+
+⚠️ Due to GitHub’s file size limits, large files like the original dataset (creditcard.csv) and full model predictions (results.csv) are not included in this repository.
+You can download the original dataset from Kaggle – Credit Card Fraud Detection.
+
+
